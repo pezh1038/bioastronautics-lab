@@ -27,3 +27,7 @@ end
    
 
 plot(time1,voltage1);
+
+
+RAHHHHH
+
